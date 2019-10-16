@@ -1,2 +1,3 @@
-assets/html/terceiros/* linguist-vendored
+lib/CopyLibs/* linguist-vendored
 weka.jar linguist-vendored=false
+org-netbeans-modules-java-j2seproject-copylibstask.jar linguist-vendored=false
